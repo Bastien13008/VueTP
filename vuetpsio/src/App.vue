@@ -21,7 +21,7 @@ export default{
     navbar,
     globalconfig,
     virtualmachine,
-    vm1,
+    vm1
   }
 }
 </script>
